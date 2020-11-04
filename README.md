@@ -1,4 +1,4 @@
-# CV de Christian Rodriguez
+# CV de JG
 
 Este repositorio lo uso para mantener mi propio CV usando GIT y [jsonresume](https://jsonresume.org/).
 
